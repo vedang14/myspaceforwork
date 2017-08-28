@@ -1,0 +1,8 @@
+#incldue<iosrtream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+cout<<"this is just an experiment";
+getch();
+}
